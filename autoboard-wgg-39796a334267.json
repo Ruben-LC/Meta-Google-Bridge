@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autoboard-wgg",
+  "private_key_id": "39796a3342679776c72a0d687e228052f14733ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDDFaXGgnncyZjx\neoauF8XpzYKqlzqd4g1lXJxaBBFgrZCYvT/h+mYHTDo5GPKK1gOcAHszlSskxere\nkSK3W1N1bTTfPrftbQ653HCeq/y4YXa2jv1VDnBOxmZSwGQFtP6VTfRsw+uMA1MR\nHmqzyw9pBxeG16Bbbg1hjmTAo4yffnlRuhqPkFYQgRmujgT/ew4Iwj9iqH+M2vP4\nEALl98JApdVuesWe3LpGRhaLDTXVsYaB209mwg0sbAwI0zAopA5YvT7z7/AdsarO\nUbdies0WqtAG9LgSnqLRyNnxZyDJYhL5FxbJEaPYijSlVFOY6a9u8Kf1a6BB6et8\n89GpuQW1AgMBAAECggEADAmt7Q3oDyOxeFUjMmLtJ3wy7+vdBhkI0pRgYX2WxOxw\n27vx0TPuT8z4WsWbUc3a8ylkcM5nlyFPWOSDy+SqxbgzZwMrvk7YdceQe3oJYidB\neApiv3jgnTvI3Jpaka+VdgkVaBC+3CjoW0oRM374OHbjkMKFdp7X3Ik41lpBNyYu\n9jv/1CyurMcpr00PyCyXMJrKo1j5DdjF0iKq7PDKusVruEr4QjxVvLX12H9lIjul\nTd5nRxNvews/3x/IfNicyp7bj3PXLLn+jeQCna3Eh1Z6dXF8fY/Xy2n6iZNpmCH3\n+DjuMsHgbmz98Q5YMDcMj6Ket1lCvjxVnuEheVa5EQKBgQD8LM1aY80kk6lNO4ir\nKtoa4m7wDkeMSYIo2koVwjnuA/u5qNT9R3heTJ1Gy5Ff67alZzZf+GS0y0EazJed\nWv8bE519V22ZJ1fbBoMwZKahQ8zrT7u+e61XEhIOrdTZtJFmw2puQPkL0KqNKMzv\nfVPTt7W2CimTFywy+4roGFXtewKBgQDGCymlEOOteGwGyTF34ogszpZ1rs0MJx/X\nVvf+47Izuf8H6a/gUgl0+i9cIGLq0+amxNKxzmoY60AHHVzE5mPFO8b+PJQm0M0R\n4HWd7Vh2c7iOoLCfgWXxJSQPJ1dUyKAMi7XfwI7lfstfsnIK0G3NHNI370+XtQ3/\ntWXZ9yq6jwKBgQDbmHAi3HHR/jwaI1O6KpDPhIsyxFyNz51m0eBd3krv98wHOvxu\nqwQoqfLzqWWo7+yXUK/LFtUrkyvYmH0W7BzmiUhF1BJ+ogIhmyQ2yg9Is3AJId/N\n2olyHyxWWA3YnyNXJ6jQ5gd5wHYkgnkjvDF5VqsIIQVfL3iv1Nh7kGWTbQKBgQCa\nDGDOdz7C1uMgvCtwl5NZVzEORXRWObC47ntll3QsbEeGvi4CjY2xolJolQCcrUvC\n+WLy0B8TVxqs7hgVSSjeaMs3Q6PyNYTunOygddjT+tvahgAdcqf7Veqgpvd1icGF\nQL+uVrhQp7pGrCWtZ8ehPwP+YnZFCZ7kAxRA4dQo3QKBgQDHv7QhugaXP7F6LT0S\njb0A27XcGSYCjgScjxxMjYP2LC8/N9pNtpFk8pUY/32F11SbvAkIZoX/UoQtoBsO\nmEcgEdsaBq3PXejhxNhpqtRADANCx56gV2HSdaRbBIuBQvIZcNs7QCRl9Qh76x5o\nmCbm13i/ZR4cbJKaDtoXTTkJAA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "autodash-wgg@autoboard-wgg.iam.gserviceaccount.com",
+  "client_id": "102841281069059428577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autodash-wgg%40autoboard-wgg.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
